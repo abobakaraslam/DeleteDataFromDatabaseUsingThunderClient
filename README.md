@@ -1,0 +1,2 @@
+# DeleteDataFromDatabaseUsingThunderClient
+ Delete Operation
